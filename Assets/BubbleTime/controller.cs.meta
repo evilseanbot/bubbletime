@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fb8e643ccc253a94b95bb53c2a2e6831
+timeCreated: 1442107827
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bubble: {fileID: 154324, guid: 209cfd90908d44f49ac2f3b5c3c1248d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
